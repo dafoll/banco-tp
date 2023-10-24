@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Banco_TP/Banco_TP.iml" filepath="$PROJECT_DIR$/Banco_TP/Banco_TP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Consultorio_rehacer/Consultorio_rehacer.iml" filepath="$PROJECT_DIR$/Consultorio_rehacer/Consultorio_rehacer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercism/Exercism.iml" filepath="$PROJECT_DIR$/Exercism/Exercism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso/curso.iml" filepath="$PROJECT_DIR$/curso/curso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio_1/ejercicio_1.iml" filepath="$PROJECT_DIR$/ejercicio_1/ejercicio_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercio_compuesto/ejercio_compuesto.iml" filepath="$PROJECT_DIR$/ejercio_compuesto/ejercio_compuesto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+    </modules>
+  </component>
+</project>
